@@ -227,3 +227,6 @@ $RECYCLE.BIN/
 
 # WPF temp projects
 *wpftmp.*
+
+# vscode workspace
+*.code-workspace
